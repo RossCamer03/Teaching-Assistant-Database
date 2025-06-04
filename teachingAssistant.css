@@ -1,0 +1,23 @@
+/*
+	Museum Styles
+*/
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	background-color: white;
+	color: black;
+}
+h1 {
+	font-size: 40px;
+}
+select {
+		font-family: 'Quicksand', sans-serif;
+		background-color: grey;
+}
+table, th, td {
+	vertical-align: top;
+}
+img {
+	vertical-align: top;	
+}
